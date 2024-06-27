@@ -1,0 +1,6 @@
+framework module Fastis {
+  umbrella header "Fastis-umbrella.h"
+
+  export *
+  module * { export * }
+}

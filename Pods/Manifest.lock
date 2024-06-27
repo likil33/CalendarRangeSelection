@@ -1,0 +1,24 @@
+PODS:
+  - Fastis (3.2.0):
+    - JTAppleCalendar (~> 8.0.0)
+    - PrettyCards (~> 1.0.0)
+  - JTAppleCalendar (8.0.5)
+  - PrettyCards (1.0.5)
+
+DEPENDENCIES:
+  - Fastis
+
+SPEC REPOS:
+  trunk:
+    - Fastis
+    - JTAppleCalendar
+    - PrettyCards
+
+SPEC CHECKSUMS:
+  Fastis: 498c1033c3a2313b01aac205115233543b6b6668
+  JTAppleCalendar: 16c6501b22cb27520372c28b0a2e0b12c8d0cd73
+  PrettyCards: 2b078f2396a42f7f0c4d6624b875149dcb49d3ed
+
+PODFILE CHECKSUM: f7e008e3f5167ac7eee556bd1f5df57981e3deac
+
+COCOAPODS: 1.12.1

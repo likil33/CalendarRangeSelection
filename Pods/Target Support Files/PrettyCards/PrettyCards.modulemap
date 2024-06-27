@@ -1,0 +1,6 @@
+framework module PrettyCards {
+  umbrella header "PrettyCards-umbrella.h"
+
+  export *
+  module * { export * }
+}
